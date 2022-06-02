@@ -1,0 +1,3 @@
+/Users/shannonharrison/CLionProjects/spotify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shannonharrison/CLionProjects/spotify/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shannonharrison/CLionProjects/spotify/cmake-build-debug/CMakeFiles/spotify.dir
